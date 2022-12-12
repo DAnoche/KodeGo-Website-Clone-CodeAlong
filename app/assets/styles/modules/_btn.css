@@ -6,10 +6,10 @@
 
   &--primary {
     background-color: $mainGreen;
-    color: whitesmoke;
+    color: #fff;
   }
 
   &--wide {
-    padding: 1.5rem 8rem;
+    padding: 1.25rem 8rem;
   }
 }

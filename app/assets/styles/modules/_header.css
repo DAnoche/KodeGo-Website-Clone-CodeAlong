@@ -5,11 +5,11 @@
 
   &__nav {
     float: right;
+    color: $mainBlue;
 
     & li {
       display: inline-block;
       margin-right: 1.5em;
-      color: $mainblue;
     }
   }
 
